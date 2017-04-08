@@ -5,7 +5,7 @@
 
 #### Code example
 ```php
-  yatsenkolesh\phpcurlasync::instance('http://example.com') -> async() -> setPost(['id' => 228]) -> request('/services/updatePost'); // async php request
+  CurlAsync\Talk::instance('http://example.com') -> async() -> setPost(['id' => 228]) -> request('/services/updatePost'); // async php request
 ```
  
 #### To install with composer
