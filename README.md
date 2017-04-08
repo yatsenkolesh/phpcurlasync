@@ -1,5 +1,5 @@
 # php-curlasync
-##### Make curl asynchronous queries with php.
+#### Make curl asynchronous queries with php.
 
 #### Require php version >= 5, but with php 5 async request will be executed 1s vs php 7 - 50ms 
 
