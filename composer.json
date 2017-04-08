@@ -1,0 +1,14 @@
+{
+    "name": "yatsenkolesh/php-curlasync",
+    "description": "Make curl asynchronous queries with php.",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "webfay",
+            "email": "webfay1@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
