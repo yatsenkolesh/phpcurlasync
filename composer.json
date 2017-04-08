@@ -11,9 +11,9 @@
     ],
     "minimum-stability": "stable",
     "require": {
-        "yatsenkolesh/php-curlasync": "^0.1.1"
+        "yatsenkolesh/php-curlasync": "^0.1.2"
     },
-     "autoload": {
-        "psr-4":  {"Async\\": "src/"}
-    }
+     "psr-0": {
+            "curlasync": ""
+        },
 }

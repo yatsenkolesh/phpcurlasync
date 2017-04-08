@@ -6,9 +6,9 @@
   * @license BSD-3-Clause 
 */
 
-namespace yatsenkolesh;
+namespace curlasync;
 
-class phpcurlasync
+class Talk
 {
   /**
     * @var string $response
