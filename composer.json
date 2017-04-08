@@ -13,8 +13,7 @@
     "require": {
         "yatsenkolesh/php-curlasync": "^0.0.3"
     },
-    "autoload" :
-    {
+    "autoload": {
         "psr-4": "/",
     }
 }
