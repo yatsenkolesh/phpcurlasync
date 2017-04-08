@@ -5,6 +5,10 @@
 
 #### Code example
 ```php
-  Talk::instance('http://example.com') -> async() -> setPost(['id' => 228]) -> request('/services/getPost'); // async php request
+  Talk::instance('http://example.com') -> async() -> setPost(['id' => 228]) -> request('/services/updatePost'); // async php request
 ```
  
+#### To install with composer
+```
+  composer require yatsenkolesh/php-curlasync
+```
